@@ -1,0 +1,13 @@
+.Title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.17em;
+}
+
+.Results {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}

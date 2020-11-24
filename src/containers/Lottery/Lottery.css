@@ -1,0 +1,23 @@
+.Lottery ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.Lottery li {
+    display: inline-block;
+    margin: 20px;
+}
+
+.Lottery a {
+    text-decoration: none;
+    color: black;
+}
+
+.Lottery a:hover,
+.Lottery a:active 
+.Lottery a.active {
+    color: #fa923f;
+}

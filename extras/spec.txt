@@ -1,12 +1,14 @@
 Consultas a web service tipo rest
 Publicado: Hace 3 días Propuestas: 5
-Requerimos desarrollar una aplicacion que consuma los datos de un web service que tiene datos tipo json con los resultados de varias loterias....
+Requerimos desarrollar una aplicacion que consuma los datos de un web service que tiene datos tipo json con los resultados de 
+varias loterias....
 
 http://181.49.2.100:30443/WebServiceSIISS/rest/resultados/consultaResultados?fecha=12/11/2020
 
 La ultima parte de la url es la fecha 
 
-Lo que se requiere es desarrollar una interfase que me muestre una tabla con 3 columnas con el nombre de la loteria, el numero ganador y el numero de serie....Con los resultados del dia (fecha =hoy)
+Lo que se requiere es desarrollar una interfase que me muestre una tabla con 3 columnas con el nombre de la loteria, 
+el numero ganador y el numero de serie....Con los resultados del dia (fecha =hoy)
 
 Y que tenga la opción de hacer un búsqueda por fechas anteriores.
 
